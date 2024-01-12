@@ -1,0 +1,7 @@
+@inproceedings{REPO372,
+    author = "Caron, Mathilde and Bojanowski, Piotr and Joulin, Armand and Douze, Matthijs",
+    booktitle = "Proceedings of the European conference on computer vision (ECCV)",
+    pages = "132--149",
+    title = "{Deep Clustering for Unsupervised Learning of Visual Features}",
+    year = "2018"
+}
